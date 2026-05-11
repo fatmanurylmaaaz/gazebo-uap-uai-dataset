@@ -152,3 +152,9 @@ The dataset is not annotated yet due to time limitations, but it can be labeled 
 Fatmanur Yılmaz
 
 Computer Engineering Student
+
+---
+
+## Citation
+
+If you use this dataset for research or development purposes, please consider citing this repository.
